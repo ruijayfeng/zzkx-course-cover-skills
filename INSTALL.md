@@ -7,7 +7,7 @@
 - 两套待安装目录：`skills/tianyuan-cover-studio`、`skills/kubi-cover-studio`，安装时完整保留各目录内的所有文件。
 - Codex 优先使用当前客户端支持的用户 Skill 目录。当前官方文档列出的目录是 `~/.agents/skills/`；已有环境也可能从 `~/.codex/skills/` 或自定义位置加载。查看当前已识别 Skill 的路径或安装器配置再决定，不在多个被扫描的位置重复安装同名 Skill。
 - 其他 Agent 使用其实际支持的 Skill 目录；如果不支持本地 Skill，说明限制，不声称已安装。
-- 本仓库若为私有，需要已授权的 GitHub 访问。使用现有登录或凭据；没有权限时说明需要开通该仓库权限，不把网页404当作空包。
+- 本仓库为公开仓库，可直接下载；安装无需GitHub登录或仓库访问授权。
 - 官方目录参考：[Build skills](https://learn.chatgpt.com/docs/build-skills)。
 
 ## 2. 安装两套完整 Skill

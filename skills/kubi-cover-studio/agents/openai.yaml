@@ -1,0 +1,4 @@
+interface:
+  display_name: "枯笔写意课程封面"
+  short_description: "输入高阶课程，选择画面方案，确认后生成枯笔写意封面并检查归档"
+  default_prompt: "使用 $kubi-cover-studio 为高阶课程制作封面，先给我画面文字方案，确认后再生图。"

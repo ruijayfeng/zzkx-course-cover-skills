@@ -1,0 +1,14 @@
+{
+  "skill_version": "1.0.0",
+  "packaged_on": "2026-10-08",
+  "style": "高阶・应用",
+  "outline_source": "正字快写课程大纲_2026-08-26_无专项突破版.md",
+  "original_outline_sha256": "cb19bfe5291178e42f0d198e3adde9510fd04e5b8eb245ddf986a4f9a33e493e",
+  "scoped_outline_sha256": "07b9c79561ff515705804cffc21d206a423918d361878cb57c0036d6d94b8e30",
+  "course_range": [
+    431,
+    618
+  ],
+  "reference_status": "historical style only; no claim of renewed user content approval",
+  "redo_scope": "provided separately by user; not embedded"
+}

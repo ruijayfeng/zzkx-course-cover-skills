@@ -1,0 +1,4 @@
+interface:
+  display_name: "田园水墨课程封面"
+  short_description: "输入中阶课程，选择画面方案，确认后生成田园水墨封面并检查归档"
+  default_prompt: "使用 $tianyuan-cover-studio 为中阶课程制作封面，先给我画面文字方案，确认后再生图。"
